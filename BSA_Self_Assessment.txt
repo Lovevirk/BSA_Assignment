@@ -1,0 +1,55 @@
+# BSA Self-Assessment
+
+## Author Details
+- **Full Name**: Lovepreet Singh
+- **Student Code (Login Name)**: 1000117287
+- **Submission Date**: 26/05/2024
+
+## Self-Assessment Criteria
+
+### Task 1: Creating a User Environment
+
+**1. Correct Implementation of Script Functionality**
+The script correctly reads user data from the CSV file.
+ Users are created with the correct usernames and initial passwords.
+ Users are added to specified groups.
+ Shared folders are created and permissions are set correctly.
+ Links and aliases are created for users.
+
+
+**Self-Assessment**:
+Rating (out of 10): 8
+
+**2. Error Handling**
+ Errors are handled gracefully and logged appropriately.
+The script checks for existing users before creating new ones.
+
+**Self-Assessment**:
+Rating (out of 10): 10
+
+
+### Task 2: Backup Script
+
+**1. Correct Implementation of Script Functionality**
+ The script compresses the specified directory into a .tar.gz file.
+A backup is also created in a specified local directory.
+
+### Git and Documentation
+
+**1. Proper Use of Git**
+ The repository is initialized and all necessary files are tracked.
+ The repository is pushed to GitHub and shared with the instructor.
+
+**Self-Assessment**:
+Rating (out of 10): 9
+
+
+**2. Comprehensive Documentation**
+ The `README.md` file is complete and well-structured.
+ Instructions for running the scripts are clear and detailed.
+
+**Self-Assessment**:
+Rating (out of 10):9
+
+
+
